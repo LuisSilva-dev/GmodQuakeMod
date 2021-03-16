@@ -1,0 +1,2 @@
+$attachment "1" "GunBase" -0.70 5.30 21.00 rotate -3 -163 92
+$attachment "2" "GunBase" -0.70 5.30 21.00 rotate 0 -161 95
