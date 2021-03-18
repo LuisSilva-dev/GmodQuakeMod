@@ -1,1 +1,1 @@
-# GmodQuakeMod
+Copy these files to your Gmod's addons folder.
